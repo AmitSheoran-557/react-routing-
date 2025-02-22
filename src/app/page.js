@@ -12,10 +12,11 @@ export default function Home() {
     <div>
 
       <h1>Basic routing</h1>
-      <Link href="/edcsc">Go to params tabs</Link>
+      <Link href="/params-page">Go to params tabs</Link>
       <br />
       <br />
-      <Link href="/heroPage">Go to hero page via link</Link>
+
+      <Link href="/local-storage">Go to local storage </Link>
       <br />
       <br />
 
